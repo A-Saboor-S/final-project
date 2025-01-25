@@ -140,7 +140,7 @@ export default function MiniDrawer() {
   const handleEnrolledClick = () => {
     setShowEnrolledOptions(!showEnrolledOptions); // Toggle visibility of options
   };
-
+      
   const getLetterAvatar = (text) => {
     const firstLetter = text.charAt(0).toUpperCase();
     return (
