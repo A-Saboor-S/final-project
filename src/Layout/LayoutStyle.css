@@ -1,0 +1,15 @@
+
+
+/* Adjust font size for smaller screens (tablets) */
+@media (max-width: 480px) {
+    .btns {
+        font-size: 8px;
+    }
+}
+
+/* Adjust font size for mobile screens */
+@media (max-width: 576px) {
+    .btns {
+        font-size: 8px;
+    }
+}
