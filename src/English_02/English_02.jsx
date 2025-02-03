@@ -186,7 +186,7 @@ minHeight: "300px",
     fontWeight: 'bold', 
     pl: 4 
   }}
->English 02
+>English 02 
 </Typography>
 <Typography variant="subtitle1" sx={{ pl: 4 }}>
 </Typography>
